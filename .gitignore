@@ -8,3 +8,8 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Dataset
+annot/
+train/train_set/
+val/val_set/
