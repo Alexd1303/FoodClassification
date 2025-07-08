@@ -13,3 +13,6 @@ wheels/
 annot/
 train/train_set/
 val/val_set/
+
+# Runs
+runs/
