@@ -1,2 +1,0 @@
-https://arxiv.org/pdf/1603.09246
-# https://github.com/kalelpark/FG-SSL/blob/main/utils/setting.py#L46
