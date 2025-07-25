@@ -1,7 +1,3 @@
-Here’s a GitHub README file for the project described in the paper titled *“Supervised Learning: classification on FoodX-251”*. It outlines the project’s goal, methodology, and structure clearly and professionally:
-
----
-
 # 🍽️ Fine-Grained Food Classification with CNNs and Self-Supervised Learning
 
 **Authors:**
@@ -63,7 +59,7 @@ Custom CNN architecture built using:
 > 🧠 Total parameters: \~2.2M
 
 <p align="center">
-  <img src="assets/architecture_diagram.png" alt="Architecture Diagram" width="500"/>
+  <img src="assets/architecture_diagram.png" alt="Architecture Diagram" width="1000"/>
 </p>
 
 ---
